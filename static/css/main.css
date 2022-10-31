@@ -1,0 +1,13 @@
+
+body {
+    background-image: linear-gradient(to top, #fad0c4 0%, #eee4ee 100%);
+}
+
+a {
+    color: blue;
+}
+
+.rkt {
+    background: rgb(148,180,174);
+    background: linear-gradient(25deg, rgba(148,180,174,1) 0%, rgba(52,50,52,1) 14%, rgba(167,156,127,0.76234243697479) 88%);
+}
